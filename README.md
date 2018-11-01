@@ -32,7 +32,7 @@ This project contains four files:
 * [boston_housing.ipynb](https://github.com/beingjainparas/Udacity-Predicting_boston_housing_prices/blob/master/boston_housing.ipynb): This is the main file where we have performed our work on the project.
 * [housing.csv](https://github.com/beingjainparas/Udacity-Predicting_boston_housing_prices/blob/master/housing.csv): The project dataset. We'll load this data in the notebook.
 * [visuals.py](https://github.com/beingjainparas/Udacity-Predicting_boston_housing_prices/blob/master/visuals.py): This Python script provides supplementary visualizations for the project. Do not modify.
-* [report.html](https://github.com/beingjainparas/Udacity-Predicting_boston_housing_prices/blob/master/boston_housing.html): An HTML export of the project notebook with the name report.html which can be seen [here](https://beingjainparas.github.io/Udacity-Predicting_boston_housing_prices/report.html).
+* [report.html](https://github.com/beingjainparas/Udacity-Predicting_boston_housing_prices/blob/master/report.html): An HTML export of the project notebook with the name report.html which can be seen [here](https://beingjainparas.github.io/Udacity-Predicting_boston_housing_prices/report.html).
 
 In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook boston_housing.ipynb` to open up a browser window or tab to work with our notebook. Alternatively, we can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens.
 
