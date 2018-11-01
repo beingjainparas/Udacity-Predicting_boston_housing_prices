@@ -52,3 +52,4 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 
 # Extra Links that halped me solve the project are:
 * https://morphocode.com/pandas-cheat-sheet/
+* http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
